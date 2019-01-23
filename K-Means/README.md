@@ -1,4 +1,6 @@
-<div align="center">![](https://s2.ax1x.com/2019/01/23/kEAaSH.png)</div>
+<center>
+<img src="https://s2.ax1x.com/2019/01/23/kEAaSH.png" width="60%" height="25%" />
+</center>
 
 ### 算法思想：
 ```
