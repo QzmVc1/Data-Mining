@@ -4,4 +4,5 @@
 
 #### Algorithm  (for a long time to update)
 1. K-Means
-2. ...
+2. KNN
+3. ...

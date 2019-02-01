@@ -1,5 +1,5 @@
 <center>
-<img = src=https://s2.ax1x.com/2019/02/01/k3tjRs.jpg width=60% height=25%/>
+<img = src=https://s2.ax1x.com/2019/02/01/k3tjRs.jpg width=45% height=25%/>
 </center>
 
 
