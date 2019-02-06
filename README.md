@@ -5,4 +5,5 @@
 #### Algorithm  (for a long time to update)
 1. K-Means
 2. KNN
-3. ...
+3. Naive Bayes
+4. ...
