@@ -7,4 +7,5 @@
 2. KNN
 3. Naive Bayes
 4. C4.5决策树
-5. ...
+5. Neural Network
+6. ...
